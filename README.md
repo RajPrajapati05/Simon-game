@@ -1,13 +1,6 @@
 # Simon Game
 
 A browser‑based version of the classic “Simon Says” memory game, built with HTML, CSS & JavaScript.
-
----
-
-## 🎮 Live Demo  
-*(If you have deployed it, add a link here)*  
-[View the live version](#)  
-
 ---
 
 ## 🚀 Features
@@ -29,5 +22,5 @@ A browser‑based version of the classic “Simon Says” memory game, built wit
 
 ---
 
-## 📁 Project Structure
+
 
